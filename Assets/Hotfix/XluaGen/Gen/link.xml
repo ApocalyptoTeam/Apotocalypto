@@ -1,0 +1,15 @@
+﻿
+
+<linker>
+
+	<assembly fullname="UnityEngine.CoreModule">
+	    <type fullname="UnityEngine.GameObject" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="mscorlib">
+	    <type fullname="System.Collections.Generic.Dictionary`2[System.String,System.Int32]" preserve="all"/>
+		
+	</assembly>
+
+</linker>
